@@ -12,7 +12,7 @@ Viel Erfolg beim Wiederholen des Lernstoffs!
 4. Estar+ gerundio <br>
 5. Das Verb gustar <br>
 6. Die Satzstruktur mit den Modalverben querer/poder/tener que <br>
-7. Der bejahrte Imperativ <br>
+7. Der bejahte Imperativ <br>
 8. Das nahe Futur mit ir a + Infinitiv <br>
 9. Reflexive Verben <br>
 10. Pronomen in der Übersicht <br>

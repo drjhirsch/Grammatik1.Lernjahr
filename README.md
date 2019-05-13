@@ -6,12 +6,12 @@ Viel Erfolg beim Wiederholen des Lernstoffs!
 <br>
 <br>
 <b>Wichtige Grammatikthemen:</b><br>
-1. ser/estar/hay <br>
+1. <a href="https://drjhirsch.github.io/serestarhayejercicios/">ser/estar/hay </a><br>
 2. Verneinung <br>
 3. Adjektive <br>
 4. Estar+ gerundio <br>
-5. Das Verb gustar <br>
-6. Die Satzstruktur mit den Modalverben querer/poder/tener que <br>
+5. <a href="https://drjhirsch.github.io/ejerciciosgustar/">Das Verb gustar</a> <br>
+6. <a href="https://drjhirsch.github.io/poderquerertenerque/">Die Satzstruktur mit den Modalverben querer/poder/tener que </a><br>
 7. Der bejahte Imperativ <br>
 8. Das nahe Futur mit ir a + Infinitiv <br>
 9. Reflexive Verben <br>

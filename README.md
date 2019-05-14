@@ -8,8 +8,8 @@ Viel Erfolg beim Wiederholen des Lernstoffs!
 <b>Wichtige Grammatikthemen:</b><br>
 1. <a href="https://drjhirsch.github.io/serestarhayejercicios/">ser/estar/hay </a><br>
 2. <a href="https://drjhirsch.github.io/negacion/">ser/estar/hay </a><br>
-3. Adjektive <br>
-4. Estar+ gerundio <br>
+3. <a href="https://drjhirsch.github.io/adjetivos/">Adjektive </a><br>
+4. <a href="https://drjhirsch.github.io/gerundio/">estar + gerundio </a><br>
 5. <a href="https://drjhirsch.github.io/ejerciciosgustar/">Das Verb gustar</a> <br>
 6. <a href="https://drjhirsch.github.io/poderquerertenerque/">Die Satzstruktur mit den Modalverben querer/poder/tener que </a><br>
 7. Der bejahte Imperativ <br>

@@ -7,7 +7,7 @@ Viel Erfolg beim Wiederholen des Lernstoffs!
 <br>
 <b>Wichtige Grammatikthemen:</b><br>
 1. <a href="https://drjhirsch.github.io/serestarhayejercicios/">ser/estar/hay </a><br>
-2. <a href="https://drjhirsch.github.io/negacion/">ser/estar/hay </a><br>
+2. <a href="https://drjhirsch.github.io/negacion/">Verneinung </a><br>
 3. <a href="https://drjhirsch.github.io/adjetivos/">Adjektive </a><br>
 4. <a href="https://drjhirsch.github.io/gerundio/">estar + gerundio </a><br>
 5. <a href="https://drjhirsch.github.io/ejerciciosgustar/">Das Verb gustar</a> <br>
@@ -16,6 +16,7 @@ Viel Erfolg beim Wiederholen des Lernstoffs!
 8. Das nahe Futur mit ir a + Infinitiv <br>
 9. Reflexive Verben <br>
 10. Pronomen in der Übersicht <br>
+<br>
 
 <b>Wichtige Wortfelder:</b> <br>
 1. Begrüßung <br>

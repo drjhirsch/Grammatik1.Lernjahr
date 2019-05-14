@@ -7,7 +7,7 @@ Viel Erfolg beim Wiederholen des Lernstoffs!
 <br>
 <b>Wichtige Grammatikthemen:</b><br>
 1. <a href="https://drjhirsch.github.io/serestarhayejercicios/">ser/estar/hay </a><br>
-2. Verneinung <br>
+2. <a href="https://drjhirsch.github.io/negacion/">ser/estar/hay </a><br>
 3. Adjektive <br>
 4. Estar+ gerundio <br>
 5. <a href="https://drjhirsch.github.io/ejerciciosgustar/">Das Verb gustar</a> <br>

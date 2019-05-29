@@ -14,7 +14,7 @@ Viel Erfolg beim Wiederholen des Lernstoffs!
 6. <a href="https://drjhirsch.github.io/poderquerertenerque/">Die Satzstruktur mit den Modalverben querer/poder/tener que </a><br>
 7. <a href="https://drjhirsch.github.io/impejercicios/">Der bejahte Imperativ </a> <br>
 8. <a href="https://drjhirsch.github.io/iraejercicios/">Das nahe Futur mit ir a + Infinitiv </a> <br> 
-9. Reflexive Verben <br>
+9. <a href="https://drjhirsch.github.io/reflexivos/">Reflexive Verben </a> <br> 
 10. Pronomen in der Übersicht <br>
 <br>
 
